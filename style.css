@@ -1,4 +1,7 @@
 body{
     background-color: darkgray;
-    text-align: center;
+    color: aliceblue;
+}
+span{
+    color: aqua;
 }
