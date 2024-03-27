@@ -7,4 +7,9 @@ while (nomeUsuario == ''){
  nomeUsuario = prompt('qual é o seu nome?');
 }
 
-texto.textContent = nomeUsuario;
+if(nomeUsuario == null){
+   texto.textContent = 'sr(a)'; 
+} else{
+    texto.textContent = nomeUsuario;
+}
+
