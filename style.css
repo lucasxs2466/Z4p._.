@@ -28,6 +28,7 @@ a{
     color: rgb(156, 156, 216);
     text-align: center;
     font-size: large;
+    cursor: pointer;
 
 }
 footer{
