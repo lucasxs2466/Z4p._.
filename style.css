@@ -5,3 +5,10 @@ body{
 span{
     color: aqua;
 }
+.Objetivos{
+    color: black;
+    background-color: cadetblue;
+    padding: 20px 0;
+    cursor: pointer;
+
+}
