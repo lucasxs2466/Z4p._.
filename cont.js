@@ -6,7 +6,7 @@ const botoes = document.querySelectorAll('.Objetivo');
 
 
 
-for (let i = 0; i < botoes.length; i++ ){
+for (let i = 0; i < botoes.length; i++){
 console.log(i);
 }
 
