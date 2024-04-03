@@ -34,7 +34,7 @@ footer{
     text-align: center;
 }
 .ativo{
-    background-color: black;
+    background-color: rgb(9, 33, 112);
     color: white;
     border-bottom: 3px solid rgb(138, 173, 138);
 }
