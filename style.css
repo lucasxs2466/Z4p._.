@@ -18,3 +18,7 @@ p{
     text-align: center;
     color: blueviolet;
 }
+a{
+    text-align: left;
+    padding: 200px 0;
+}
