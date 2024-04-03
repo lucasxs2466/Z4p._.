@@ -1,6 +1,6 @@
 body{
-    background-color: darkgray;
-    color: aliceblue;
+    background-color: rgb(120, 145, 230);
+    color: rgb(255, 255, 255);
 
 }
 span{
@@ -8,7 +8,7 @@ span{
 }
 .contagem{
     color: black;
-    background-color: cadetblue;
+    background-color: rgb(120, 145, 230);
     padding: 20px 0;
     text-align: center;
 
@@ -17,7 +17,7 @@ p{
     font-size: x-large;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: blueviolet;
+    color: rgb(218, 195, 240);
 }
 a{
     font-family: Arial, Helvetica, sans-serif;
@@ -25,7 +25,7 @@ a{
 }
 .Objetivo{
     background-color: azure;
-    color: darkblue;
+    color: rgb(156, 156, 216);
     text-align: center;
     font-size: large;
 
