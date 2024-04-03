@@ -29,8 +29,12 @@ a{
     text-align: center;
     font-size: large;
     cursor: pointer;
-
 }
 footer{
     text-align: center;
+}
+.ativo{
+    background-color: black;
+    color: white;
+    border-bottom: 3px solid rgb(138, 173, 138);
 }
