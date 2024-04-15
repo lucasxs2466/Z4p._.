@@ -1,5 +1,5 @@
 const botoes = document.querySelectorAll('.Objetivo');
-const texto = document.querySelectorALL('.aba-conteudo');
+const texto = document.querySelectorAll('.aba-conteudo');
 //botoes.lenght
 
 
@@ -16,7 +16,7 @@ console.log(i);
 
 }
 
-const contadores = documentSelectorAll('.contador');
+const contadores = document.querySelectorAll('.contador');
 const TempoObjetivo1 = new Date ('2024-04-16T00:00:00');
 
 let TempoAtual = new Date ();
