@@ -37,4 +37,7 @@ footer{
     background-color: rgb(9, 33, 112);
     color: white;
     border-bottom: 3px solid rgb(0, 0, 0);
+
+}.aba-texto{
+    list-style: none;
 }
