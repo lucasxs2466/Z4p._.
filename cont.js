@@ -14,8 +14,6 @@ console.log(i);
     texto[i].classList.add('ativa');
 }
 
-
-//botoes[i].classList.remove('ativo');
 }
 
 const contadores = documentSelectorAll('.contador');
