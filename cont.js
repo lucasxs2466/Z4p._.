@@ -21,8 +21,8 @@ const TempoObjetivo1 = new Date ('2024-04-16T00:00:00');
 
 let TempoAtual = new Date ();
 let tempo = TempoObjetivo1 - TempoAtual;
-let segundos = math.floor (TempoFinal/1000);
-let minutos = math.floor (segundos/60);
+let segundos = math.floor(TempoFinal/1000);
+let minutos = math.floor(segundos/60);
 let horas = math.floor(minutos/60);
 let dias = math.floor(horas/24);
 
