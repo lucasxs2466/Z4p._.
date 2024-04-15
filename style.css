@@ -43,3 +43,6 @@ footer{
     display: none;
     color: black;
 }
+.ativa{
+    display: block;
+}
