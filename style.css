@@ -38,3 +38,8 @@ footer{
     color: white;
     border-bottom: 3px solid rgb(0, 0, 0);
 }
+
+.aba-conteudo {
+    display: none;
+    color: black;
+}
