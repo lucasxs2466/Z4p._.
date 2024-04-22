@@ -23,6 +23,10 @@ const TempoObjetivo3 = new Date ('2024-04-30T00:00:00');
 const TempoObjetivo4 = new Date ('2024-04-30T00:00:00');
 
 let Tempos = {TempoObjetivo1,TempoObjetivo2,TempoObjetivo3,TempoObjetivo4};
+for(i =0; i< contadores.length; i++){
+contadores[i].textContent = caalculaTempo(tempos[i]);
+}
+
 
 function caalculaTempo(tempoObjetivo){
 let TempoAtual = new Date ();
@@ -32,7 +36,7 @@ let minutos = Math.floor(segundos/60);
 let horas = Math.floor(minutos/60);
 let dias = Math.floor(horas/24);
 
-segundos %=60;
+segundos %=60;      
 minutos %=60;
 horas %=24
 
