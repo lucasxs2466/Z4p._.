@@ -30,4 +30,4 @@ segundos %=60;
 minutos %=60;
 horas %=24
 
-contadores[0].textContent = dias + "dias" + horas + "horas" + minutos + "minutos" + segundos + "segundos";
+contador[0].textContent = dias + "dias" + horas + "horas" + minutos + "minutos" + segundos + "segundos";
