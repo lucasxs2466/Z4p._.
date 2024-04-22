@@ -4,7 +4,7 @@
 
 }
 span{
-    color: aqua;
+    color: rgb(117, 132, 199);
 }
 .contagem{
     color: black;
@@ -24,8 +24,8 @@ a{
 
 }
 .Objetivo{
-    background-color: aquamarine;
-    color: rgb(72, 255, 0);
+    background-color: rgb(200, 218, 47);
+    color: rgb(89, 105, 83);
     text-align: center;
     font-size: large;
     cursor: pointer;
