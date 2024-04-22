@@ -28,7 +28,7 @@ contadores[i].textContent = calculaTempo(Tempos[i]);
 }
 
 
-function calculaTempo(tempoObjetivo){
+function calculaTempo(TempoObjetivo){
 let TempoAtual = new Date ();
 let tempo = TempoObjetivo - TempoAtual;
 let segundos = Math.floor(TempoFinal/1000);
