@@ -16,7 +16,7 @@ console.log(i);
 
 }
 
-const contador = document.querySelectorAll('.contador');
+const contadores = document.querySelectorAll('.contador');
 const TempoObjetivo1 = new Date ('2024-04-30T00:00:00');
 
 let TempoAtual = new Date ();
@@ -30,4 +30,4 @@ segundos %=60;
 minutos %=60;
 horas %=24
 
-contador[0].textContent = dias + "dias" + horas + "horas" + minutos + "minutos" + segundos + "segundos";
+contadores[0].textContent = dias + "dias" + horas + "horas" + minutos + "minutos" + segundos + "segundos";

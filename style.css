@@ -1,4 +1,4 @@
-body{
+.body{
     background-color: rgb(120, 145, 230);
     color: rgb(255, 255, 255);
 
@@ -45,4 +45,7 @@ footer{
 }
 .ativa{
     display: block;
+}
+.contador{
+    
 }
