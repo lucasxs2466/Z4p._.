@@ -16,7 +16,7 @@ console.log(i);
 
 }
 
-const contadores = document.querySelectorAll('.contador');
+const contador = document.querySelectorAll('.contador');
 const TempoObjetivo1 = new Date ('2024-04-30T00:00:00');
 
 let TempoAtual = new Date ();
