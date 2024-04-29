@@ -1,6 +1,6 @@
 const botoes = document.querySelectorAll('.Objetivo');
 const texto = document.querySelectorAll('.aba-conteudo');
-//botoes.lenght
+//botoes.lenght     
 
 
 for (let i = 0; i < botoes.length; i++) {
@@ -12,13 +12,13 @@ for (let i = 0; i < botoes.length; i++) {
         }
         botoes[i].classList.add('ativo');
         texto[i].classList.add('ativa');
-    }
+    }                           
 
 }
 
 const contadores = document.querySelectorAll('.contador');
 const TempoObjetivo1 = new Date('2999-09-31T00:00:00');
-const TempoObjetivo2 = new Date('2024-12-30T00:00:00');
+const TempoObjetivo2 = new Date('2020-12-30T00:00:00');
 const TempoObjetivo3 = new Date('2024-11-30T00:00:00');
 const TempoObjetivo4 = new Date('2024-12-13T00:00:00');
 let Tempos = [ TempoObjetivo1, TempoObjetivo2, TempoObjetivo3, TempoObjetivo4 ];
